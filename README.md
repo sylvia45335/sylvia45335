@@ -2,7 +2,8 @@
 
 - 🤗 Hi, I'm Sylvia
 - 🔭 I’m currently working on ZusTime, Zustand's first Chrome DevTool for time travel debugging and component hierarchy visualization
-- 🌱 I’m currently learning TypeScript, ChromeAPI, React, and Zustand
+- 💚 In my freetime, I enjoy watching movies/shows, trying new food, & wire-crafting
+- 🌱 Teach me about new technology! I'd love to chat over some coffee 
 - 📫 How to reach me: sylvia45335@gmail.com
 
 <!--
