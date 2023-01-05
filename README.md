@@ -1,4 +1,9 @@
-### Hi, I'm Sylvia 🤗
+
+
+- 🤗 Hi, I'm Sylvia
+- 🔭 I’m currently working on ZusTime, Zustand's first Chrome DevTool for time travel debugging and component hierarchy visualization
+- 🌱 I’m currently learning TypeScript, ChromeAPI, React, and Zustand
+- 📫 How to reach me: sylvia45335@gmail.com
 
 <!--
 **sylvia45335/sylvia45335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
