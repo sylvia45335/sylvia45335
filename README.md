@@ -1,6 +1,6 @@
 
 
-<h1> 🤗 Hi, I'm Sylvia </h1>
+Hi, I'm Sylvia
 - 🔭 I’m currently working on ZusTime, Zustand's first Chrome DevTool for time travel debugging and component hierarchy visualization
 - 💚 In my freetime, I enjoy watching movies/shows, trying new food, & wire-crafting
 - 🌱 Teach me about new technology! I'd love to chat over some coffee 
