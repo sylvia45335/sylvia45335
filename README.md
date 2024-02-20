@@ -1,10 +1,11 @@
 
+![Jackies Ai](https://github.com/sylvia45335/sylvia45335/assets/110571069/c018a8af-5670-4598-80d7-da3b38330414)
+
+
 ### Hi there, I'm Sylvia 😄
 
-- 🔭 I’m currently working on ZusTime, Zustand's first Chrome DevTool for time travel debugging and component hierarchy visualization
 - 💚 In my freetime, I enjoy watching movies/shows, trying new food, & playing videogames 
 - 🌱 Teach me about new technology! I'd love to chat over some coffee 
-- 📫 How to reach me: sylvia45335@gmail.com
 
 <!--
 **sylvia45335/sylvia45335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
